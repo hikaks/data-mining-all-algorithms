@@ -1,0 +1,160 @@
+{
+  "job_id": "RAHib9nFcP5jfOY5Ihp08A",
+  "original_files_unchanged": 14,
+  "active_model_unchanged": true,
+  "results": [
+    {
+      "experiment_id": "EXP-DD0663B4288E18E8",
+      "algorithm": "svm_linear",
+      "test_ratio": 0.25,
+      "actual_test_ratio": 0.25025711,
+      "status": "EVALUATED",
+      "training_seconds": 2.876247,
+      "accuracy": 0.99315068,
+      "macro_f1": 0.99191897,
+      "solver": {
+        "converged": true,
+        "fit_status": 0,
+        "iterations": [
+          28153
+        ],
+        "max_iter": -1
+      }
+    },
+    {
+      "experiment_id": "EXP-677BDAFE593341FA",
+      "algorithm": "random_forest",
+      "test_ratio": 0.25,
+      "actual_test_ratio": 0.25025711,
+      "status": "EVALUATED",
+      "training_seconds": 0.66665,
+      "accuracy": 0.99178082,
+      "macro_f1": 0.99026571,
+      "solver": null
+    },
+    {
+      "experiment_id": "EXP-BF4393F8101311DD",
+      "algorithm": "decision_tree",
+      "test_ratio": 0.25,
+      "actual_test_ratio": 0.25025711,
+      "status": "EVALUATED",
+      "training_seconds": 0.145238,
+      "accuracy": 0.98493151,
+      "macro_f1": 0.98239695,
+      "solver": null
+    },
+    {
+      "experiment_id": "EXP-BF01E140A4B91CA0",
+      "algorithm": "knn",
+      "test_ratio": 0.25,
+      "actual_test_ratio": 0.25025711,
+      "status": "EVALUATED",
+      "training_seconds": 0.087215,
+      "accuracy": 0.73835616,
+      "macro_f1": 0.65967698,
+      "solver": null
+    },
+    {
+      "experiment_id": "EXP-9AB3D1FA7466307A",
+      "algorithm": "svm_linear",
+      "test_ratio": 0.2,
+      "actual_test_ratio": 0.19986287,
+      "status": "EVALUATED",
+      "training_seconds": 2.807593,
+      "accuracy": 0.9948542,
+      "macro_f1": 0.99394418,
+      "solver": {
+        "converged": true,
+        "fit_status": 0,
+        "iterations": [
+          31726
+        ],
+        "max_iter": -1
+      }
+    },
+    {
+      "experiment_id": "EXP-2A7C3DA771C122C0",
+      "algorithm": "random_forest",
+      "test_ratio": 0.2,
+      "actual_test_ratio": 0.19986287,
+      "status": "EVALUATED",
+      "training_seconds": 0.844159,
+      "accuracy": 0.98799314,
+      "macro_f1": 0.98573401,
+      "solver": null
+    },
+    {
+      "experiment_id": "EXP-8FCE77679756296C",
+      "algorithm": "decision_tree",
+      "test_ratio": 0.2,
+      "actual_test_ratio": 0.19986287,
+      "status": "EVALUATED",
+      "training_seconds": 0.14365,
+      "accuracy": 0.98627787,
+      "macro_f1": 0.98397515,
+      "solver": null
+    },
+    {
+      "experiment_id": "EXP-86A68CD64BB98D03",
+      "algorithm": "knn",
+      "test_ratio": 0.2,
+      "actual_test_ratio": 0.19986287,
+      "status": "EVALUATED",
+      "training_seconds": 0.101191,
+      "accuracy": 0.73241852,
+      "macro_f1": 0.67271707,
+      "solver": null
+    },
+    {
+      "experiment_id": "EXP-DAC38010A1CA8D2A",
+      "algorithm": "svm_linear",
+      "test_ratio": 0.3,
+      "actual_test_ratio": 0.2996229,
+      "status": "EVALUATED",
+      "training_seconds": 2.432858,
+      "accuracy": 0.98855835,
+      "macro_f1": 0.98648966,
+      "solver": {
+        "converged": true,
+        "fit_status": 0,
+        "iterations": [
+          21940
+        ],
+        "max_iter": -1
+      }
+    },
+    {
+      "experiment_id": "EXP-C47EBB1AE9E5C41A",
+      "algorithm": "random_forest",
+      "test_ratio": 0.3,
+      "actual_test_ratio": 0.2996229,
+      "status": "EVALUATED",
+      "training_seconds": 0.827742,
+      "accuracy": 0.98970252,
+      "macro_f1": 0.9877756,
+      "solver": null
+    },
+    {
+      "experiment_id": "EXP-F2C736B1C015DD80",
+      "algorithm": "decision_tree",
+      "test_ratio": 0.3,
+      "actual_test_ratio": 0.2996229,
+      "status": "EVALUATED",
+      "training_seconds": 0.137615,
+      "accuracy": 0.98283753,
+      "macro_f1": 0.97992303,
+      "solver": null
+    },
+    {
+      "experiment_id": "EXP-42FD4066E27DA633",
+      "algorithm": "knn",
+      "test_ratio": 0.3,
+      "actual_test_ratio": 0.2996229,
+      "status": "EVALUATED",
+      "training_seconds": 0.088418,
+      "accuracy": 0.7402746,
+      "macro_f1": 0.65984113,
+      "solver": null
+    }
+  ]
+}

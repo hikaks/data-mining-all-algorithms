@@ -1,0 +1,3 @@
+# Overlay source onto the verified local runtime; retain installed dependencies.
+FROM maxkomp-backend-local-cleaning-report:latest
+COPY backend /app/backend
